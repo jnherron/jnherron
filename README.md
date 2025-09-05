@@ -1,5 +1,5 @@
 ## Hey Everybody!
-My name is Jamie, and I am just getting started here on GitHub. I don't have any projects yet, but I am super excited to get started soon and start working with you all!
+My name is Jamie, and I am just getting started here on GitHub. I don't have any projects yet, but I am super excited to get started soon and begin working with you all!
 <!--
 **jnherron/jnherron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
